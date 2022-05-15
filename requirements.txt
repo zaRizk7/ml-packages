@@ -30,7 +30,7 @@ tensorflow
 tensorflow-addons
 tensorflow-hub
 tensorflow-model-optimization
-tensorflow_decision_forests
+tensorflow-probability
 albumentations
 spacy
 seaborn
