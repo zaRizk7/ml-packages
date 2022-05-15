@@ -53,6 +53,7 @@ kornia
 pyspark
 mlflow
 virtualenv
+pipenv
 einops
 segmentation-models
 segmentation-models-pytorch
