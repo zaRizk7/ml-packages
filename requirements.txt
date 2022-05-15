@@ -21,13 +21,16 @@ requests
 blaze
 regex
 nose
-psycopg2
 textblob
 torch
 torchvision
-tensorflow
 torchtext
 torchaudio
+tensorflow
+tensorflow-addons
+tensorflow-hub
+tensorflow-model-optimization
+tensorflow_decision_forests
 albumentations
 spacy
 seaborn
@@ -46,9 +49,10 @@ deap
 jupyterlab
 streamlit
 Sastrawi
-pytorch-directml; python_version < '3.9' and sys_platform == 'win32'
 kornia
 pyspark
 mlflow
 virtualenv
 einops
+segmentation-models
+segmentation-models-pytorch
