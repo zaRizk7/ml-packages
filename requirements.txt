@@ -54,6 +54,7 @@ pyspark
 mlflow
 virtualenv
 pipenv
+plotly
 einops
 segmentation-models
 segmentation-models-pytorch
