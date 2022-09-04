@@ -68,3 +68,10 @@ deslib
 
 # Optional
 sympy
+black
+isort
+jupyterlab-code-formatter
+jupyterlab-git
+lckr-jupyterlab-variableinspector
+jupyterlab-nvdashboard
+gpuutils
