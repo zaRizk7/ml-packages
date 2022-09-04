@@ -1,0 +1,70 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+--extra-index-url https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+# Weights and Biases
+wandb
+
+# Einstein Tensor Operation
+einops
+
+# Evolutionary Computing
+deap
+
+# Jax
+jax[cuda]
+flax
+dm-haiku
+optax
+
+# PyTorch
+torch
+torchvision
+torchaudio
+torchtext
+
+# PyTorch Extras (Lightning)
+pytorch-lightning
+torchmetrics
+lightning-bolts
+lightning-flash
+
+# PyTorch Extras
+pytorch-ignite
+timm
+monai
+segmentation-models-pytorch
+
+# TensorFlow Extras
+tensorflow-addons
+tensorflow-hub
+tensorflow-probability
+segmentation-models
+
+# Bayesian Modelling
+pymc
+
+# NLP and Audio
+transformers
+librosa
+vaderSentiment
+textblob
+Sastrawi
+
+# Data Mining
+scrapy
+tweepy
+
+# Data Science
+pycaret[full]
+
+# Vision
+opencv-python
+kornia
+albumentations
+
+# Tabular Models
+pytorch-tabnet
+deslib
+
+# Optional
+sympy
