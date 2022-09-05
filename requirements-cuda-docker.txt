@@ -7,9 +7,6 @@ wandb
 # Evolutionary Computing
 deap
 
-# MXNet
-mxnet-cu112
-
 # Jax
 jax[cuda]
 flax
