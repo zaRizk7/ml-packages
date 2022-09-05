@@ -27,6 +27,7 @@ lightning-flash
 
 # PyTorch Extras
 pytorch-ignite
+skorch
 timm
 monai
 segmentation-models-pytorch
