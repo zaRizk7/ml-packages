@@ -52,7 +52,7 @@ scrapy
 tweepy
 
 # Data Science
-pycaret[full]
+pycaret
 
 # Vision
 opencv-python
