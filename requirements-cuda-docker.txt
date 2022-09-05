@@ -4,9 +4,6 @@
 # Weights and Biases
 wandb
 
-# Einstein Tensor Operation
-einops
-
 # Evolutionary Computing
 deap
 
@@ -70,6 +67,7 @@ pytorch-tabnet
 deslib
 
 # Optional
+einops
 sympy
 black
 isort
