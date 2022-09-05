@@ -10,6 +10,9 @@ einops
 # Evolutionary Computing
 deap
 
+# MXNet
+mxnet-cu112
+
 # Jax
 jax[cuda]
 flax
@@ -73,5 +76,6 @@ isort
 jupyterlab-code-formatter
 jupyterlab-git
 lckr-jupyterlab-variableinspector
+jupyterlab_theme_solarized_dark
 jupyterlab-nvdashboard
 gpustat
