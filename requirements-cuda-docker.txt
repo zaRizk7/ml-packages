@@ -54,6 +54,7 @@ tweepy
 
 # Data Science
 pycaret[full]
+dask[complete]
 
 # Vision
 opencv-python
