@@ -55,6 +55,7 @@ tweepy
 # Data Science
 pycaret[full]
 dask[complete]
+dask-ml[xgboost]
 dask-ml[complete]
 
 # Vision
