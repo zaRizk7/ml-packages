@@ -8,7 +8,7 @@ wandb
 deap
 
 # Jax
-jax[cuda]
+jax[cuda111]
 flax
 dm-haiku
 optax
