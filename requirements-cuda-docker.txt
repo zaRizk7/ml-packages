@@ -73,7 +73,7 @@ sympy
 black
 isort
 jupyterlab
-jupyterlab_widgets
+ipywidgets
 ipympl
 jupyterlab-code-formatter
 jupyterlab-git
