@@ -78,3 +78,4 @@ lckr-jupyterlab-variableinspector
 jupyterlab_theme_solarized_dark
 jupyterlab-nvdashboard
 gpustat
+ipympl
