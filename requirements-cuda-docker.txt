@@ -72,6 +72,9 @@ einops
 sympy
 black
 isort
+jupyterlab
+jupyterlab_widgets
+ipympl
 jupyterlab-code-formatter
 jupyterlab-git
 lckr-jupyterlab-variableinspector
@@ -79,4 +82,4 @@ jupyterlab_theme_solarized_dark
 jupyterlab-nvdashboard
 dask-labextension
 gpustat
-ipympl
+
