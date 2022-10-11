@@ -68,6 +68,7 @@ pytorch-tabnet
 deslib
 
 # Optional
+imbalanced-learn
 einops
 sympy
 black
