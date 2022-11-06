@@ -8,10 +8,10 @@ wandb
 deap
 
 # Jax
-jax[cuda]
-flax
-dm-haiku
-optax
+# jax[cuda]
+# flax
+# dm-haiku
+# optax
 
 # PyTorch
 torch
@@ -83,4 +83,4 @@ jupyterlab_theme_solarized_dark
 jupyterlab-nvdashboard
 dask-labextension
 gpustat
-
+pygraphviz
