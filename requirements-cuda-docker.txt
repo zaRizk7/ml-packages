@@ -76,6 +76,7 @@ isort
 jupyterlab
 ipywidgets
 ipympl
+kaggle
 jupyterlab-code-formatter
 jupyterlab-git
 lckr-jupyterlab-variableinspector
