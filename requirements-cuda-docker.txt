@@ -59,7 +59,7 @@ dask-ml[xgboost]
 dask-ml[complete]
 
 # Vision
-opencv-python
+opencv-contrib-python
 kornia
 albumentations
 
