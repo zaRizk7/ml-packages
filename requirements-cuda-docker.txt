@@ -62,6 +62,7 @@ dask-ml[complete]
 opencv-contrib-python
 kornia
 albumentations
+autoalbument
 
 # Tabular Models
 pytorch-tabnet
