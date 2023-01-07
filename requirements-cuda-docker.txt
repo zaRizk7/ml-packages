@@ -53,7 +53,7 @@ scrapy
 tweepy
 
 # Data Science
-pycaret[full]
+# pycaret[full]
 
 # Vision
 opencv-contrib-python
