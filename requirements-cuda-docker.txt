@@ -47,6 +47,8 @@ librosa
 vaderSentiment
 textblob
 Sastrawi
+spacy
+nltk
 
 # Data Mining
 scrapy
