@@ -77,8 +77,8 @@ ipympl
 kaggle
 jupyterlab-code-formatter
 jupyterlab-git
-lckr-jupyterlab-variableinspector
-jupyterlab_theme_solarized_dark
-jupyterlab-nvdashboard
+# lckr-jupyterlab-variableinspector
+# jupyterlab_theme_solarized_dark
+# jupyterlab-nvdashboard
 gpustat
 pygraphviz
