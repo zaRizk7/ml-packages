@@ -54,9 +54,6 @@ tweepy
 
 # Data Science
 pycaret[full]
-dask[complete]
-dask-ml[xgboost]
-dask-ml[complete]
 
 # Vision
 opencv-contrib-python
@@ -83,6 +80,5 @@ jupyterlab-git
 lckr-jupyterlab-variableinspector
 jupyterlab_theme_solarized_dark
 jupyterlab-nvdashboard
-dask-labextension
 gpustat
 pygraphviz
