@@ -8,10 +8,10 @@ wandb
 deap
 
 # Jax
-jax[cuda]
-flax
-dm-haiku
-optax
+# jax[cuda]
+# flax
+# dm-haiku
+# optax
 
 # PyTorch
 torch
@@ -47,15 +47,15 @@ librosa
 vaderSentiment
 textblob
 Sastrawi
-spacy
-nltk
+# spacy
+# nltk
 
 # Data Mining
 scrapy
 tweepy
 
 # Data Science
-# pycaret[full]
+pycaret[full]
 
 # Vision
 opencv-contrib-python
